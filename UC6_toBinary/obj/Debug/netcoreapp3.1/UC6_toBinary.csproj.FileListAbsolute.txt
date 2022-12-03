@@ -1,0 +1,14 @@
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.exe
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.deps.json
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.runtimeconfig.json
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.runtimeconfig.dev.json
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.dll
+E:\RFP231\NUnit_Testing\UC6_toBinary\bin\Debug\netcoreapp3.1\UC6_toBinary.pdb
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.csproj.AssemblyReference.cache
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.AssemblyInfoInputs.cache
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.AssemblyInfo.cs
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.csproj.CoreCompileInputs.cache
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.dll
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.pdb
+E:\RFP231\NUnit_Testing\UC6_toBinary\obj\Debug\netcoreapp3.1\UC6_toBinary.genruntimeconfig.cache
